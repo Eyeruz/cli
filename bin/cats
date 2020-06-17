@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-require './lib/cats'
-
-Cats::CLI.new.call

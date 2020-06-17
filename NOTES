@@ -1,11 +1,8 @@
- cat api 
-differet types of cats
--name
--color
--origin
--make up personality
+Cat
 
- random cat.. personality 
-
- whats your cat personality 
-
+name 
+origin
+temperament
+description
+life span
+wikipedia_url
