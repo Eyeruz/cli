@@ -6,3 +6,26 @@ temperament
 description
 life span
 wikipedia_url
+
+
+service class doesnt repersent data (used to do things)
+CLI- command line interface n
+***API- used to connect to the API
+
+
+model class (cats.rb) (attrbutes)
+names
+origins 
+temperament 
+description
+life span 
+wikipedia_ul
+
+
+environment - loads all files.
+rest-client - gem connects to APIs.
+(bundle install.. then require in environment)
+
+json - javascript object notation (to pass information back and forth.. to take info out.)
+
+(name:)  :<--- (on initialize) when you dont know the value.. whatever the simbol points to .. is the value.
