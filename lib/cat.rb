@@ -19,6 +19,7 @@ end
 
 
 
+
 def self.all
     @@all 
 

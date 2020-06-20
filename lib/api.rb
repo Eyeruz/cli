@@ -23,8 +23,8 @@ def self.get_info
             description: description, 
             life_span: life_span, 
             url: url)
-    end
-    # binding.pry
+        end
+#         binding.pry
 end
 
 
@@ -32,7 +32,7 @@ end
 def self.get_cats
 
     
-binding.pry
+# binding.pry
 end
 
     

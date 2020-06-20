@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 require_relative '../lib/environment'
-# API.get_cats
+# API.get_info
 
 
 CLI.new.run
